@@ -1,4 +1,4 @@
-
+/*WAP to show the try - catch block to catch the different types of exception.*/
 public class Practical1 {
     public static void main(String[] args){
         try {

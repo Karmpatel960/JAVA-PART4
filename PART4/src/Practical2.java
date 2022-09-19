@@ -1,3 +1,5 @@
+/*WAP to generate user defined exception using “throw” and “throws” keyword.*/
+
 public class Practical2 {
     static void get(){
         try {
