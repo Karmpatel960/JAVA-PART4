@@ -1,7 +1,6 @@
-import java.util.Scanner;
 
 public class Practical1 {
-    public void main(String[] args) {
+    public static void main(String[] args){
         try {
             System.out.println(50 / 0);
         }
